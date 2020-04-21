@@ -1,4 +1,4 @@
-# Tinderos
+# Hugot
 Some words of Wisdom list from successfull people.
 
 Go now to [Hugot](https://hugot-mrg.netlify.com) website to view it.
