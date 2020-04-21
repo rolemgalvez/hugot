@@ -1,7 +1,7 @@
 # Tinderos
 Some words of Wisdom list from successfull people.
 
-Go now to [Hugot](https://tinderos-mrg.netlify.com) website to view it.
+Go now to [Hugot](https://hugot-mrg.netlify.com) website to view it.
 
 ## Preview
 |   Desktop   |   Mobile    |
